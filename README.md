@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Praveenkumar07007/Leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Praveenkumar07007/Leetcode/tree/master/0012-integer-to-roman) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Praveenkumar07007/Leetcode/tree/master/0012-integer-to-roman) |
 | [0179-largest-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Praveenkumar07007/Leetcode/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/Praveenkumar07007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
 |  |
