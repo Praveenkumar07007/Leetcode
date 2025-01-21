@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Praveenkumar07007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Praveenkumar07007/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0917-boats-to-save-people](https://github.com/Praveenkumar07007/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Praveenkumar07007/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Bit Manipulation
 |  |
@@ -37,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Praveenkumar07007/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0179-largest-number) |
+| [0917-boats-to-save-people](https://github.com/Praveenkumar07007/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0179-largest-number) |
+| [0917-boats-to-save-people](https://github.com/Praveenkumar07007/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Praveenkumar07007/Leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Praveenkumar07007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0917-boats-to-save-people](https://github.com/Praveenkumar07007/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
