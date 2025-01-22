@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Praveenkumar07007/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0917-boats-to-save-people](https://github.com/Praveenkumar07007/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1022-unique-paths-iii](https://github.com/Praveenkumar07007/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Praveenkumar07007/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0090-subsets-ii) |
+| [1022-unique-paths-iii](https://github.com/Praveenkumar07007/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Praveenkumar07007/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Brainteaser
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Praveenkumar07007/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0090-subsets-ii) |
+| [1022-unique-paths-iii](https://github.com/Praveenkumar07007/Leetcode/tree/master/1022-unique-paths-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -86,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Praveenkumar07007/Leetcode/tree/master/0079-word-search) |
+| [1022-unique-paths-iii](https://github.com/Praveenkumar07007/Leetcode/tree/master/1022-unique-paths-iii) |
 <!---LeetCode Topics End-->
