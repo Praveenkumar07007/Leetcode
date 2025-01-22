@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Praveenkumar07007/Leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0063-unique-paths-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Praveenkumar07007/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Praveenkumar07007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -88,6 +89,11 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Praveenkumar07007/Leetcode/tree/master/0079-word-search) |
 | [1022-unique-paths-iii](https://github.com/Praveenkumar07007/Leetcode/tree/master/1022-unique-paths-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
