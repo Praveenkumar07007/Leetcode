@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/Praveenkumar07007/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1022-unique-paths-iii](https://github.com/Praveenkumar07007/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Praveenkumar07007/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0179-largest-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0179-largest-number) |
 | [0917-boats-to-save-people](https://github.com/Praveenkumar07007/Leetcode/tree/master/0917-boats-to-save-people) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Praveenkumar07007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
 | ------- |
