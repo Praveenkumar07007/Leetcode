@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Praveenkumar07007/Leetcode/tree/master/0079-word-search) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Praveenkumar07007/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0063-unique-paths-ii) |
+## Graph
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Praveenkumar07007/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Topological Sort
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Praveenkumar07007/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
