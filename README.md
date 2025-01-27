@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Praveenkumar07007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Praveenkumar07007/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0739-daily-temperatures](https://github.com/Praveenkumar07007/Leetcode/tree/master/0739-daily-temperatures) |
 | [0917-boats-to-save-people](https://github.com/Praveenkumar07007/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1022-unique-paths-iii](https://github.com/Praveenkumar07007/Leetcode/tree/master/1022-unique-paths-iii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Praveenkumar07007/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Praveenkumar07007/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Praveenkumar07007/Leetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Praveenkumar07007/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
