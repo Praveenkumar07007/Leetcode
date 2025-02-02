@@ -154,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/0567-permutation-in-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Praveenkumar07007/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
