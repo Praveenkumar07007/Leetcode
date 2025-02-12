@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Praveenkumar07007/Leetcode/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Praveenkumar07007/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/1013-fibonacci-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Array
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveenkumar07007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/1013-fibonacci-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/Praveenkumar07007/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Graph
 |  |
@@ -209,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Praveenkumar07007/Leetcode/tree/master/0146-lru-cache) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
