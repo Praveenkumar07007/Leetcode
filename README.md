@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1022-unique-paths-iii](https://github.com/Praveenkumar07007/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1364-tuple-with-same-product](https://github.com/Praveenkumar07007/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1418-fair-distribution-of-cookies](https://github.com/Praveenkumar07007/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Praveenkumar07007/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2448-count-number-of-bad-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0213-house-robber-ii) |
 | [1013-fibonacci-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/1013-fibonacci-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/Praveenkumar07007/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Graph
 |  |
 | ------- |
