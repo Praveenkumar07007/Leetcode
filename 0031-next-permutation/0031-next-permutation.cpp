@@ -9,21 +9,19 @@ public:
                 break;
             }
         }
-        if(idx == -1){
+        if(idx==-1){
             reverse(nums.begin(),nums.end());
-            return ;
+            return;
         }
         reverse(nums.begin()+idx+1,nums.end());
-        int j= -1;
+        int j = -1;
         for(int i=idx+1;i<n;i++){
             if(nums[i]>nums[idx]){
                 j=i;
                 break;
             }
         }
-        int temp = nums[idx];
-        nums[idx] = nums[j];
-        nums[j] = temp;
+        swap(nums[idx],nums[j]);
         return;
     }
 };
