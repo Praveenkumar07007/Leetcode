@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Praveenkumar07007/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praveenkumar07007/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/Praveenkumar07007/Leetcode/tree/master/0739-daily-temperatures) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0179-largest-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praveenkumar07007/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0917-boats-to-save-people](https://github.com/Praveenkumar07007/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0948-sort-an-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Praveenkumar07007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Praveenkumar07007/Leetcode/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/0567-permutation-in-string) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/Praveenkumar07007/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -272,10 +276,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Praveenkumar07007/Leetcode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -284,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -294,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0948-sort-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0948-sort-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Praveenkumar07007/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
