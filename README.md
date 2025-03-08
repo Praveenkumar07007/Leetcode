@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1022-unique-paths-iii](https://github.com/Praveenkumar07007/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1364-tuple-with-same-product](https://github.com/Praveenkumar07007/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1418-fair-distribution-of-cookies](https://github.com/Praveenkumar07007/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Praveenkumar07007/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-min-cost-climbing-stairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/1013-fibonacci-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/Praveenkumar07007/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Graph
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/0567-permutation-in-string) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Database
 |  |
