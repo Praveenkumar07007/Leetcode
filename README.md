@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Praveenkumar07007/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Praveenkumar07007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Praveenkumar07007/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Praveenkumar07007/Leetcode/tree/master/0079-word-search) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Praveenkumar07007/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Praveenkumar07007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Praveenkumar07007/Leetcode/tree/master/0079-word-search) |
 | [0854-making-a-large-island](https://github.com/Praveenkumar07007/Leetcode/tree/master/0854-making-a-large-island) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Praveenkumar07007/Leetcode/tree/master/0054-spiral-matrix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Praveenkumar07007/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Praveenkumar07007/Leetcode/tree/master/3447-clear-digits) |
 ## Linked List
