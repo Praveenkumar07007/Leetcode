@@ -18,7 +18,7 @@ public:
         }
         reach = max(reach, limit*2);
         int ans = INT_MAX;
-        for (int i = 1; i <= reach; i++) {
+        for (int i = 2; i <= reach; i++) {
             s[i] += s[i-1];
             ans = min(ans, s[i]);
         }
