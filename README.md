@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Praveenkumar07007/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Praveenkumar07007/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/Praveenkumar07007/Leetcode/tree/master/2690-house-robber-iv) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Praveenkumar07007/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3643-zero-array-transformation-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Praveenkumar07007/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Praveenkumar07007/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/Praveenkumar07007/Leetcode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
