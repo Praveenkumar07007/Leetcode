@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Praveenkumar07007/Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Praveenkumar07007/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Praveenkumar07007/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Praveenkumar07007/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0039-combination-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Praveenkumar07007/Leetcode/tree/master/0016-3sum-closest) |
 | [0179-largest-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Praveenkumar07007/Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Praveenkumar07007/Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Praveenkumar07007/Leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
