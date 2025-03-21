@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2665-minimum-time-to-repair-cars](https://github.com/Praveenkumar07007/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Praveenkumar07007/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Praveenkumar07007/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2792-neighboring-bitwise-xor](https://github.com/Praveenkumar07007/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Praveenkumar07007/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1418-fair-distribution-of-cookies](https://github.com/Praveenkumar07007/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [2478-longest-nice-subarray](https://github.com/Praveenkumar07007/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Praveenkumar07007/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2792-neighboring-bitwise-xor](https://github.com/Praveenkumar07007/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Brainteaser
 |  |
