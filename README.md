@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/Praveenkumar07007/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Praveenkumar07007/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1022-unique-paths-iii](https://github.com/Praveenkumar07007/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Praveenkumar07007/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Praveenkumar07007/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Praveenkumar07007/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Praveenkumar07007/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Praveenkumar07007/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/0567-permutation-in-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Praveenkumar07007/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0966-binary-subarrays-with-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1364-tuple-with-same-product](https://github.com/Praveenkumar07007/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Praveenkumar07007/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Praveenkumar07007/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Praveenkumar07007/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Praveenkumar07007/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
