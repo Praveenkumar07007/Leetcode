@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/Praveenkumar07007/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1013-fibonacci-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Praveenkumar07007/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Praveenkumar07007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Array
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2107-find-unique-binary-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Praveenkumar07007/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Praveenkumar07007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Praveenkumar07007/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Praveenkumar07007/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-distant-barcodes](https://github.com/Praveenkumar07007/Leetcode/tree/master/1140-distant-barcodes) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Praveenkumar07007/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Praveenkumar07007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Praveenkumar07007/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Prefix Sum
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/Praveenkumar07007/Leetcode/tree/master/0079-word-search) |
 | [0854-making-a-large-island](https://github.com/Praveenkumar07007/Leetcode/tree/master/0854-making-a-large-island) |
 | [1022-unique-paths-iii](https://github.com/Praveenkumar07007/Leetcode/tree/master/1022-unique-paths-iii) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Praveenkumar07007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
