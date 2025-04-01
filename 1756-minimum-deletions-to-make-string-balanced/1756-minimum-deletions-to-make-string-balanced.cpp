@@ -1,18 +1,26 @@
 class Solution {
 public:
     int minimumDeletions(string s) {
-        stack<char> st;
         int n = s.length();
-        int count =0;
-        for(int i=0;i<n;i++){
-            if(!st.empty() && st.top()=='b' && s[i]=='a'){
-                st.pop();
-                count++;
-            }
-            else{
-                st.push(s[i]);
-            }
+        int counta = 0, countb = 0, minDeletions;
+
+        // Count total 'a's in the string
+        for (char c : s) {
+            if (c == 'a') counta++;
         }
-        return count;
+
+        // Initialize minDeletions with the worst-case scenario (removing all 'a's)
+        minDeletions = counta;
+
+        for (char c : s) {
+            if (c == 'a') {
+                counta--;  // Remove one 'a' from the left part
+            } else {
+                countb++;  // Count 'b' in the left part
+            }
+            minDeletions = min(minDeletions, counta + countb);
+        }
+
+        return minDeletions;
     }
 };
