@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0778-reorganize-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/0778-reorganize-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Praveenkumar07007/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Praveenkumar07007/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Praveenkumar07007/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Praveenkumar07007/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2107-find-unique-binary-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/1013-fibonacci-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/Praveenkumar07007/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Praveenkumar07007/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Praveenkumar07007/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Graph
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0224-basic-calculator](https://github.com/Praveenkumar07007/Leetcode/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/Praveenkumar07007/Leetcode/tree/master/0739-daily-temperatures) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Praveenkumar07007/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Praveenkumar07007/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/Praveenkumar07007/Leetcode/tree/master/3447-clear-digits) |
