@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/Praveenkumar07007/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/Praveenkumar07007/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1783-ways-to-make-a-fair-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Praveenkumar07007/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Praveenkumar07007/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Praveenkumar07007/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Praveenkumar07007/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Praveenkumar07007/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1783-ways-to-make-a-fair-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Praveenkumar07007/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
