@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Praveenkumar07007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Praveenkumar07007/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Praveenkumar07007/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Praveenkumar07007/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0090-subsets-ii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Praveenkumar07007/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Praveenkumar07007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0268-missing-number) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Praveenkumar07007/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Praveenkumar07007/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/Praveenkumar07007/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Praveenkumar07007/Leetcode/tree/master/0079-word-search) |
 | [0854-making-a-large-island](https://github.com/Praveenkumar07007/Leetcode/tree/master/0854-making-a-large-island) |
 | [1022-unique-paths-iii](https://github.com/Praveenkumar07007/Leetcode/tree/master/1022-unique-paths-iii) |
