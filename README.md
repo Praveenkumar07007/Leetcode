@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Praveenkumar07007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Praveenkumar07007/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Praveenkumar07007/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Array
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2027-maximum-number-of-removable-characters](https://github.com/Praveenkumar07007/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2107-find-unique-binary-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Praveenkumar07007/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/Praveenkumar07007/Leetcode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Praveenkumar07007/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/Praveenkumar07007/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Praveenkumar07007/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Graph
 |  |
 | ------- |
