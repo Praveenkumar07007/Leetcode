@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-rabbits-in-forest](https://github.com/Praveenkumar07007/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Praveenkumar07007/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1500-count-largest-group](https://github.com/Praveenkumar07007/Leetcode/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Praveenkumar07007/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Praveenkumar07007/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Praveenkumar07007/Leetcode/tree/master/2050-count-good-numbers) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1364-tuple-with-same-product](https://github.com/Praveenkumar07007/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Praveenkumar07007/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Praveenkumar07007/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/Praveenkumar07007/Leetcode/tree/master/1500-count-largest-group) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Praveenkumar07007/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2107-find-unique-binary-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
