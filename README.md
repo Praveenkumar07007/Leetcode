@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/Praveenkumar07007/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/Praveenkumar07007/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/Praveenkumar07007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Praveenkumar07007/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/Praveenkumar07007/Leetcode/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Praveenkumar07007/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0966-binary-subarrays-with-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Praveenkumar07007/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Praveenkumar07007/Leetcode/tree/master/0985-bag-of-tokens) |
+| [1014-k-closest-points-to-origin](https://github.com/Praveenkumar07007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/Praveenkumar07007/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Praveenkumar07007/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Praveenkumar07007/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0948-sort-an-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Praveenkumar07007/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/Praveenkumar07007/Leetcode/tree/master/0985-bag-of-tokens) |
+| [1014-k-closest-points-to-origin](https://github.com/Praveenkumar07007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1140-distant-barcodes](https://github.com/Praveenkumar07007/Leetcode/tree/master/1140-distant-barcodes) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Praveenkumar07007/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Praveenkumar07007/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Praveenkumar07007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Praveenkumar07007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1140-distant-barcodes](https://github.com/Praveenkumar07007/Leetcode/tree/master/1140-distant-barcodes) |
 ## Merge Sort
 |  |
@@ -531,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Praveenkumar07007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Randomized
 |  |
 | ------- |
@@ -582,4 +588,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Praveenkumar07007/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
