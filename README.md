@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Praveenkumar07007/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Praveenkumar07007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Praveenkumar07007/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/Praveenkumar07007/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/Praveenkumar07007/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-distant-barcodes](https://github.com/Praveenkumar07007/Leetcode/tree/master/1140-distant-barcodes) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Praveenkumar07007/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Praveenkumar07007/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Praveenkumar07007/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sorting
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Praveenkumar07007/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Praveenkumar07007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Praveenkumar07007/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Praveenkumar07007/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Praveenkumar07007/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Praveenkumar07007/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Praveenkumar07007/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Praveenkumar07007/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Praveenkumar07007/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Praveenkumar07007/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Praveenkumar07007/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
 |  |
@@ -611,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Praveenkumar07007/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Praveenkumar07007/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
