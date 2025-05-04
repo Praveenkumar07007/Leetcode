@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1034-subarrays-with-k-different-integers](https://github.com/Praveenkumar07007/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Praveenkumar07007/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1140-distant-barcodes](https://github.com/Praveenkumar07007/Leetcode/tree/master/1140-distant-barcodes) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Praveenkumar07007/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Praveenkumar07007/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Praveenkumar07007/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1034-subarrays-with-k-different-integers](https://github.com/Praveenkumar07007/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1140-distant-barcodes](https://github.com/Praveenkumar07007/Leetcode/tree/master/1140-distant-barcodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Praveenkumar07007/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Praveenkumar07007/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Praveenkumar07007/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Praveenkumar07007/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Praveenkumar07007/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Praveenkumar07007/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1140-distant-barcodes](https://github.com/Praveenkumar07007/Leetcode/tree/master/1140-distant-barcodes) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Praveenkumar07007/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
