@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Praveenkumar07007/Leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Praveenkumar07007/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Praveenkumar07007/Leetcode/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Praveenkumar07007/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0854-making-a-large-island](https://github.com/Praveenkumar07007/Leetcode/tree/master/0854-making-a-large-island) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Praveenkumar07007/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/Praveenkumar07007/Leetcode/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/Praveenkumar07007/Leetcode/tree/master/0739-daily-temperatures) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Praveenkumar07007/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Praveenkumar07007/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Praveenkumar07007/Leetcode/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Praveenkumar07007/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Praveenkumar07007/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Praveenkumar07007/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Praveenkumar07007/Leetcode/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Praveenkumar07007/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Praveenkumar07007/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
