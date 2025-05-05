@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praveenkumar07007/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/Praveenkumar07007/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Praveenkumar07007/Leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/1013-fibonacci-number) |
 | [1418-fair-distribution-of-cookies](https://github.com/Praveenkumar07007/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
