@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Praveenkumar07007/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2027-maximum-number-of-removable-characters](https://github.com/Praveenkumar07007/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
+| [2048-build-array-from-permutation](https://github.com/Praveenkumar07007/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Praveenkumar07007/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Praveenkumar07007/Leetcode/tree/master/0054-spiral-matrix) |
+| [2048-build-array-from-permutation](https://github.com/Praveenkumar07007/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Praveenkumar07007/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Praveenkumar07007/Leetcode/tree/master/3447-clear-digits) |
 ## Linked List
