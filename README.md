@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2262-solving-questions-with-brainpower](https://github.com/Praveenkumar07007/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Praveenkumar07007/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Praveenkumar07007/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Praveenkumar07007/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Praveenkumar07007/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Praveenkumar07007/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Praveenkumar07007/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Praveenkumar07007/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Praveenkumar07007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Praveenkumar07007/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Praveenkumar07007/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Praveenkumar07007/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Praveenkumar07007/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Praveenkumar07007/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2249-count-the-hidden-sequences](https://github.com/Praveenkumar07007/Leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Praveenkumar07007/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2027-maximum-number-of-removable-characters](https://github.com/Praveenkumar07007/Leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Praveenkumar07007/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Praveenkumar07007/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Praveenkumar07007/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Praveenkumar07007/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -479,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Praveenkumar07007/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Praveenkumar07007/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Praveenkumar07007/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Praveenkumar07007/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
