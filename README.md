@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/Praveenkumar07007/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Praveenkumar07007/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Praveenkumar07007/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/Praveenkumar07007/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/Praveenkumar07007/Leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0268-missing-number) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Praveenkumar07007/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Praveenkumar07007/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Praveenkumar07007/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveenkumar07007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Praveenkumar07007/Leetcode/tree/master/0198-house-robber) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Praveenkumar07007/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Praveenkumar07007/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Praveenkumar07007/Leetcode/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Praveenkumar07007/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Praveenkumar07007/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Praveenkumar07007/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Praveenkumar07007/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Praveenkumar07007/Leetcode/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Praveenkumar07007/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Praveenkumar07007/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -672,4 +676,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Praveenkumar07007/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
