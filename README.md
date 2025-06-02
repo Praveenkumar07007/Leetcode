@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Praveenkumar07007/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Praveenkumar07007/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Praveenkumar07007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Praveenkumar07007/Leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Praveenkumar07007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Praveenkumar07007/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Praveenkumar07007/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Praveenkumar07007/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0179-largest-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praveenkumar07007/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/Praveenkumar07007/Leetcode/tree/master/0768-partition-labels) |
