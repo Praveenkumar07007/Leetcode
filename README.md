@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1370-count-number-of-nice-subarrays](https://github.com/Praveenkumar07007/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/Praveenkumar07007/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Praveenkumar07007/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Praveenkumar07007/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Praveenkumar07007/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/Praveenkumar07007/Leetcode/tree/master/1656-count-good-triplets) |
 | [1783-ways-to-make-a-fair-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/1783-ways-to-make-a-fair-array) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Praveenkumar07007/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Praveenkumar07007/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Praveenkumar07007/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Praveenkumar07007/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/Praveenkumar07007/Leetcode/tree/master/0101-symmetric-tree) |
 | [0854-making-a-large-island](https://github.com/Praveenkumar07007/Leetcode/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Praveenkumar07007/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Praveenkumar07007/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Praveenkumar07007/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/Praveenkumar07007/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
