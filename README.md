@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Praveenkumar07007/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Praveenkumar07007/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Praveenkumar07007/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Praveenkumar07007/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Praveenkumar07007/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Praveenkumar07007/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Praveenkumar07007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Praveenkumar07007/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Praveenkumar07007/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Praveenkumar07007/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Praveenkumar07007/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
