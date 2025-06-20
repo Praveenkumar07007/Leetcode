@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3321-type-of-triangle](https://github.com/Praveenkumar07007/Leetcode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Praveenkumar07007/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Praveenkumar07007/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Array
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3447-clear-digits](https://github.com/Praveenkumar07007/Leetcode/tree/master/3447-clear-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Praveenkumar07007/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Praveenkumar07007/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Praveenkumar07007/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Union Find
 |  |
 | ------- |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/Praveenkumar07007/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Praveenkumar07007/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Praveenkumar07007/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
 | ------- |
