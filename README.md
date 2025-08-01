@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Praveenkumar07007/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Praveenkumar07007/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/Praveenkumar07007/Leetcode/tree/master/3321-type-of-triangle) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Praveenkumar07007/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3548-find-the-count-of-good-integers](https://github.com/Praveenkumar07007/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Praveenkumar07007/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Praveenkumar07007/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Praveenkumar07007/Leetcode/tree/master/3321-type-of-triangle) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Praveenkumar07007/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Praveenkumar07007/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2249-count-the-hidden-sequences](https://github.com/Praveenkumar07007/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Praveenkumar07007/Leetcode/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Praveenkumar07007/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Praveenkumar07007/Leetcode/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Praveenkumar07007/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Praveenkumar07007/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Praveenkumar07007/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Praveenkumar07007/Leetcode/tree/master/3447-clear-digits) |
 ## Linked List
@@ -694,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Praveenkumar07007/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/Praveenkumar07007/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3548-find-the-count-of-good-integers](https://github.com/Praveenkumar07007/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
