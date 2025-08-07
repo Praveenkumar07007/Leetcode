@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praveenkumar07007/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/Praveenkumar07007/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Praveenkumar07007/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Praveenkumar07007/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Praveenkumar07007/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Praveenkumar07007/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/Praveenkumar07007/Leetcode/tree/master/0768-partition-labels) |
