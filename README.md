@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/Praveenkumar07007/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/Praveenkumar07007/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/Praveenkumar07007/Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Praveenkumar07007/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Praveenkumar07007/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Praveenkumar07007/Leetcode/tree/master/0342-power-of-four) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Praveenkumar07007/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Praveenkumar07007/Leetcode/tree/master/0342-power-of-four) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/Praveenkumar07007/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Praveenkumar07007/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Praveenkumar07007/Leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Praveenkumar07007/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Praveenkumar07007/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Praveenkumar07007/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/1013-fibonacci-number) |
