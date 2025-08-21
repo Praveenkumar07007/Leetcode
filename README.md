@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Praveenkumar07007/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Praveenkumar07007/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Praveenkumar07007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Praveenkumar07007/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Praveenkumar07007/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Praveenkumar07007/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Praveenkumar07007/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Praveenkumar07007/Leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Praveenkumar07007/Leetcode/tree/master/0768-partition-labels) |
