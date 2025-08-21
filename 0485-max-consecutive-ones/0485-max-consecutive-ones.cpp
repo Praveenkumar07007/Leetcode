@@ -8,13 +8,11 @@ public:
             if(nums[i]==1){
                 cnt++;
             }else{
-                ans = max(cnt,ans);
                 cnt=0;
             }
+            ans = max(cnt,ans);
         }
-        if(cnt>0){
-            ans = max(ans,cnt);
-        }
+        
         return ans;
     }
 };
