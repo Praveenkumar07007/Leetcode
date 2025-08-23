@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3321-type-of-triangle](https://github.com/Praveenkumar07007/Leetcode/tree/master/3321-type-of-triangle) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Praveenkumar07007/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Praveenkumar07007/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Praveenkumar07007/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Praveenkumar07007/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Praveenkumar07007/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1656-count-good-triplets](https://github.com/Praveenkumar07007/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Praveenkumar07007/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Praveenkumar07007/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Praveenkumar07007/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Praveenkumar07007/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Indexed Tree
