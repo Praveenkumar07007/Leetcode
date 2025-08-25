@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/Praveenkumar07007/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Praveenkumar07007/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/Praveenkumar07007/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Praveenkumar07007/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Praveenkumar07007/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praveenkumar07007/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Praveenkumar07007/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Praveenkumar07007/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Praveenkumar07007/Leetcode/tree/master/0079-word-search) |
+| [0498-diagonal-traverse](https://github.com/Praveenkumar07007/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/Praveenkumar07007/Leetcode/tree/master/0854-making-a-large-island) |
 | [1022-unique-paths-iii](https://github.com/Praveenkumar07007/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Praveenkumar07007/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Praveenkumar07007/Leetcode/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Praveenkumar07007/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Praveenkumar07007/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Praveenkumar07007/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Praveenkumar07007/Leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
